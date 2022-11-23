@@ -11,16 +11,16 @@ inizio il conteggio dei posti disponibili
                 ALTRIMENTI
                     SE il numero è dispari
                     aggiungo un posto
-                ALTRIMENTI aggiungo due posti
+                    ALTRIMENTI aggiungo due posti
             ALTRIMENTI
                 SE il numero è dispari
                 aggiungo 3 posti
-            ALTRIMENTI aggiungo 4 posti
+                ALTRIMENTI aggiungo 4 posti
         ALTRIMENTI
             SE il numero è dispari
             aggiungo 5 posti
-        ALTRIMENTI aggiungo 6 posti
+            ALTRIMENTI aggiungo 6 posti
     ALTRIMENTI
         SE il numero è dispari
         aggiungo 7 posti
-    ALTRIMENTI aggiungo 8 posti
+        ALTRIMENTI aggiungo 8 posti
