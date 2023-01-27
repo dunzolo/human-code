@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./public/img/readme/devices.png" alt="La Molisana" title="La Molisana" width="550px">
+ <img src="./Progetto senza titolo.png" alt="La Molisana" title="La Molisana" width="550px">
 </p>
 
 <h2 align="center">La molisana</h2>
